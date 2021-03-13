@@ -22,6 +22,8 @@
 #Check services google
 ||play-lh.googleusercontent.com
 ||photos-ugc.l.googleusercontent.com
+||alt8-mtalk.google.com
+||content-autofill.googleapis.com
 
 #Check Trackers Windows
 
@@ -29,7 +31,7 @@
 ||tlu.dl.delivery.mp.microsoft.com
 ||kv801.prod.do.dsp.mp.microsoft.com
 ||array804.prod.do.dsp.mp.microsoft.com
-
+||array808.prod.do.dsp.mp.microsoft.com
 
 ||audio-fa.scdn.co
 
