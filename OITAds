@@ -11,7 +11,7 @@
 *.ueiwsp.com
 *.userpaneltv-pa.googleapis.com
 *.lgeapi.com
-|| diagnostics.meethue.com^
+||diagnostics.meethue.com^
 
 #Aditional Block Trackers Google y Youtube
 
