@@ -12,3 +12,25 @@
 *.userpaneltv-pa.googleapis.com
 *.lgeapi.com
 || diagnostics.meethue.com^
+
+#Aditional Block Trackers Google y Youtube
+
+||1.bp.blogspot.com
+||2.bp.blogspot.com
+||4.bp.blogspot.com
+
+#Check services google
+||play-lh.googleusercontent.com
+||photos-ugc.l.googleusercontent.com
+
+#Check Trackers Windows
+
+||array805.prod.do.dsp.mp.microsoft.com
+||tlu.dl.delivery.mp.microsoft.com
+||kv801.prod.do.dsp.mp.microsoft.com
+||array804.prod.do.dsp.mp.microsoft.com
+
+
+||audio-fa.scdn.co
+
+||connectivitycheck.gstatic.com
