@@ -1,16 +1,16 @@
 #List Block voice request Ads
 
-*.thetake.com
-*.lgtvcommon.com
-*.lgappstv.com
-*.lge.com
-*.lgtvsdp.com
-*.nuancemibility.net
-*.alt1-safebrowsing.google.com
-*.safebrowsing.google.com
-*.ueiwsp.com
-*.userpaneltv-pa.googleapis.com
-*.lgeapi.com
+||*.thetake.com
+||*.lgtvcommon.com
+||*.lgappstv.com
+||*.lge.com
+||*.lgtvsdp.com
+||*.nuancemibility.net
+||*.alt1-safebrowsing.google.com
+||*.safebrowsing.google.com
+||*.ueiwsp.com
+||*.userpaneltv-pa.googleapis.com
+||*.lgeapi.com
 ||diagnostics.meethue.com^
 
 #Aditional Block Trackers Google y Youtube
