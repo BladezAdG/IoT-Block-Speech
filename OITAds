@@ -472,3 +472,15 @@ tracking.miui.com
 tracking.intl.miui.com
 tracking.india.miui.com
 tracking.rus.miui.com
+
+# Add this from regex Block
+
+||cyberark.com
+||mcafee.com^
+||mcafeewebadvisor.com^
+||embeddedassistant.googleapis.com
+||privatestats.whatsapp.net
+||graph.instagram.com
+||tags.crwdcntrl.net
+||pagead.l.doubleclick.net
+||www.googleadservices.com
