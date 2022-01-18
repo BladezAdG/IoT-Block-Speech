@@ -493,3 +493,8 @@ We Trasnfer
 ||events.launchdarkly.com^
 ||114.114.114.114^
 ||180.76.76.76^
+
+Huawei Router
+||cn.pool.ntp.org
+||asia.pool.ntp.org
+||query.hicloud.com
