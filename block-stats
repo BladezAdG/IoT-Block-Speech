@@ -3909,7 +3909,6 @@ mail.secondhome.nl
 omappapi.com
 a.omappapi.com
 secure.avaaz.org.dbl.spamhaus.org
-! allow outlook.htrhosting.nl reason: Not just email tracking
 analytics.localytics.com
 profile.localytics.com
 xtracloud.net
@@ -4373,15 +4372,12 @@ secure.insightexpressai.com
 gatag.it
 eu.cookie-script.com
 cookie-script.com
-! allow a.cdn-hotels.com reason: Sripts not trackers
 goaffpro.com
 api-server-1.goaffpro.com
 widebundle.com
 socialshopwave.com
-! allow d1um8515vdn9kb.cloudfront.net reason: Not a tracker
 omegatheme.com
 apps.omegatheme.com
-! allow ucarecdn.com reason: CDN
 mempay.com
 app.mempay.com
 yotpo.com
@@ -4778,7 +4774,6 @@ phplivesupport.com
 t2.phplivesupport.com
 b001.recharge.com
 tdep.recharge.com
-! allow recommerce-static.recharge.com reason: Images
 o31660.ingest.sentry.io
 gatorleads.co.uk
 t.gatorleads.co.uk
@@ -6590,7 +6585,6 @@ sdk.gpshopper.com
 sypi.gpshopper.com
 dmtry.com
 mng-ads.com
-.google.com
 avocarrot.com
 ads.glispa.com
 exp.glispa.com
